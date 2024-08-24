@@ -8,7 +8,7 @@ The **Melt/Thermal Radius Analysis Script** is a powerful tool developed for det
 - **Dynamic Radius Calculation**: The script iteratively adjusts a spherical selection radius to include approximately 85% of the melted particles, ensuring a focus on the most relevant material regions.
 - **High-Temperature Material Analysis**: By focusing on melted regions, the script facilitates the study of material behavior under extreme thermal conditions, offering insights into phase transitions, thermal stress responses, and other critical phenomena.
 
-  ![Fig_3_1](https://github.com/user-attachments/assets/042fe811-f5cf-4c59-ba25-6a6a701b7fc0)
+<img src="https://github.com/user-attachments/assets/042fe811-f5cf-4c59-ba25-6a6a701b7fc0" alt="Fig_3_1" width="400"/>
 
 ### **How It Works**
 1. **Target Area Selection**: 
